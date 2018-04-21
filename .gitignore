@@ -1,0 +1,4 @@
+# this is the file I used to draw scenations where UAVs are at 
+# the same positions, but the bar has different possible poses
+equilibria uavs fixed.nb
+equilibria uavs fixed figures for article.nb
