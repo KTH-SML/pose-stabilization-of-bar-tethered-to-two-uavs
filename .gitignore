@@ -2,3 +2,8 @@
 # the same positions, but the bar has different possible poses
 equilibria uavs fixed.nb
 equilibria uavs fixed figures for article.nb
+figures/*
+
+# complete notebook file, with parts I don't want to share
+pose stabilization of bar tethered to two uavs complete.nb
+
